@@ -100,5 +100,5 @@ You can add:
  
 ### Credits
 
-- WebSlides was created by [@Yovenzor Singh](https://twitter.com/_ImLlobeti4_) using [Cactus](https://github.com/eudicots/Cactus).
+- WebSlides was created by [@jlantunez]https://twitter.com/jlantunez) using [Cactus](https://github.com/eudicots/Cactus).
 - Javascript: [@Yovenzor Singh](https://www.linkedin.com/in/yovenzor-singh-20a393239/) and [@Zorveer Singh](https://www.linkedin.com/in/zorveer-singh-7a025923a/).
