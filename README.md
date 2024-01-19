@@ -1,10 +1,10 @@
 # Laaddy Singh Ghotra
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 
+## Screenshot
 
+![image](https://github.com/Yovenzor/Website/assets/102180213/7f2d2184-2746-4680-9e0e-2949cef0f70a)
 
 ### My Dad's Official Website created by me in Github Pages!
 ⬇️⬇️⬇️
