@@ -17,4 +17,8 @@
 ## Follow Him ⬇️⬇️⬇️
 ## A small gesture always helps!
 ### My Father Socials 🌐
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SoloLaaddyG/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/laaddygofficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solo-laaddy-g-3b08b69b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SoloLaaddyG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/user/GHOTRAPRODUCTIONS) 
+[![Facebook](https://img.shields.io/badge/Facebook-1879f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SoloLaaddyG/) 
+[![Instagram](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/laaddygofficial/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solo-laaddy-g-3b08b69b/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SoloLaaddyG)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/GHOTRAPRODUCTIONS) 
